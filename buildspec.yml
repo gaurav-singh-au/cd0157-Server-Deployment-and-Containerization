@@ -8,7 +8,7 @@ pre_build:
     
 env: 
   parameter-store:
-    JWT_SECRET:"YourJWTSecret"
+    JWT_SECRET: YourJWTSecret
 
 phases:
   install:
