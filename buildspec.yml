@@ -8,6 +8,7 @@ pre_build:
     
 env: 
   parameter-store:
+    AWS_REGION: us-west-2
     JWT_SECRET: JWT_SECRET
 
 phases:
